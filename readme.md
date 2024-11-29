@@ -2,5 +2,6 @@
 
 
 ![Demo](media/musicDemo.gif)
-check this one put! 
+
+check this one out! 
 https://music-stream-9w8q.vercel.app/
